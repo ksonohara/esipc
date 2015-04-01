@@ -30,4 +30,4 @@ Copyright 1997-2015 K.Sonohara.
 ##Author
 K.Sonohara
 - GitHub: https://github.com/ksonohara
-- Homepage: http://www.expertsoftware-icom/
+- Homepage: http://www.expertsoftware-i.com/
